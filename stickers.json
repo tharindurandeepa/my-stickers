@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "title": "Animal Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/animals/animals1.png"
+      ]
+    },
+    {
+      "id": "baby",
+      "title": "Baby Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/baby/baby1.png"
+      ]
+    },
+    {
+      "id": "birthday",
+      "title": "Birthday Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/birthday/birthday1.png"
+      ]
+    },
+    {
+      "id": "crismose",
+      "title": "Christmas Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/crismose/crismose1.png"
+      ]
+    },
+    {
+      "id": "funny",
+      "title": "Funny Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/funny/funny1.png"
+      ]
+    },
+    {
+      "id": "home",
+      "title": "Home Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/home/home1.png"
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Love Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/love/love1.png"
+      ]
+    },
+    {
+      "id": "monkey",
+      "title": "Monkey Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/monkey/monkey1.png"
+      ]
+    },
+    {
+      "id": "scorpion",
+      "title": "Scorpion Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/scorpion/scorpion1.png"
+      ]
+    },
+    {
+      "id": "wedding",
+      "title": "Wedding Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/wedding/wedding1.png"
+      ]
+    },
+    {
+      "id": "wolf",
+      "title": "Wolf Stickers",
+      "stickers": [
+        "https://raw.githubusercontent.com/tharindurandeepa/my-stickers/main/wolf/wolf1.png"
+      ]
+    }
+  ]
+}
